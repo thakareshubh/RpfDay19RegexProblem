@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "71VetOOc+ePhSUWI6Cp5igr2GY3JuBlLhqO7lp2qgI9wQuhGDvpJBLUkiux/zLMMl4p5IChFTjy+gqv9o47crw==",
+  "success": true,
+  "projectFilePath": "E:\\.net\\Rpf120Day19RegexUserProblem\\Uc2EnterValidLastName\\Uc2EnterValidLastName\\Uc2EnterValidLastName.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

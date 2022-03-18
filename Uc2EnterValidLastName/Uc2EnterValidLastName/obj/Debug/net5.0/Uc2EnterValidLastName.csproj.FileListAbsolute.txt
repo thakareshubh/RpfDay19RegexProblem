@@ -1,0 +1,16 @@
+E:\.net\Rpf120Day19RegexUserProblem\Uc2EnterValidLastName\Uc2EnterValidLastName\bin\Debug\net5.0\Uc2EnterValidLastName.exe
+E:\.net\Rpf120Day19RegexUserProblem\Uc2EnterValidLastName\Uc2EnterValidLastName\bin\Debug\net5.0\Uc2EnterValidLastName.deps.json
+E:\.net\Rpf120Day19RegexUserProblem\Uc2EnterValidLastName\Uc2EnterValidLastName\bin\Debug\net5.0\Uc2EnterValidLastName.runtimeconfig.json
+E:\.net\Rpf120Day19RegexUserProblem\Uc2EnterValidLastName\Uc2EnterValidLastName\bin\Debug\net5.0\Uc2EnterValidLastName.runtimeconfig.dev.json
+E:\.net\Rpf120Day19RegexUserProblem\Uc2EnterValidLastName\Uc2EnterValidLastName\bin\Debug\net5.0\Uc2EnterValidLastName.dll
+E:\.net\Rpf120Day19RegexUserProblem\Uc2EnterValidLastName\Uc2EnterValidLastName\bin\Debug\net5.0\Uc2EnterValidLastName.pdb
+E:\.net\Rpf120Day19RegexUserProblem\Uc2EnterValidLastName\Uc2EnterValidLastName\obj\Debug\net5.0\Uc2EnterValidLastName.csproj.AssemblyReference.cache
+E:\.net\Rpf120Day19RegexUserProblem\Uc2EnterValidLastName\Uc2EnterValidLastName\obj\Debug\net5.0\Uc2EnterValidLastName.GeneratedMSBuildEditorConfig.editorconfig
+E:\.net\Rpf120Day19RegexUserProblem\Uc2EnterValidLastName\Uc2EnterValidLastName\obj\Debug\net5.0\Uc2EnterValidLastName.AssemblyInfoInputs.cache
+E:\.net\Rpf120Day19RegexUserProblem\Uc2EnterValidLastName\Uc2EnterValidLastName\obj\Debug\net5.0\Uc2EnterValidLastName.AssemblyInfo.cs
+E:\.net\Rpf120Day19RegexUserProblem\Uc2EnterValidLastName\Uc2EnterValidLastName\obj\Debug\net5.0\Uc2EnterValidLastName.csproj.CoreCompileInputs.cache
+E:\.net\Rpf120Day19RegexUserProblem\Uc2EnterValidLastName\Uc2EnterValidLastName\obj\Debug\net5.0\Uc2EnterValidLastName.dll
+E:\.net\Rpf120Day19RegexUserProblem\Uc2EnterValidLastName\Uc2EnterValidLastName\obj\Debug\net5.0\refint\Uc2EnterValidLastName.dll
+E:\.net\Rpf120Day19RegexUserProblem\Uc2EnterValidLastName\Uc2EnterValidLastName\obj\Debug\net5.0\Uc2EnterValidLastName.pdb
+E:\.net\Rpf120Day19RegexUserProblem\Uc2EnterValidLastName\Uc2EnterValidLastName\obj\Debug\net5.0\Uc2EnterValidLastName.genruntimeconfig.cache
+E:\.net\Rpf120Day19RegexUserProblem\Uc2EnterValidLastName\Uc2EnterValidLastName\obj\Debug\net5.0\ref\Uc2EnterValidLastName.dll
