@@ -1,0 +1,16 @@
+E:\.net\Rpf120Day19RegexUserProblem\Uc9ClearEmailAddress\Uc9ClearEmailAddress\bin\Debug\net5.0\Uc9ClearEmailAddress.exe
+E:\.net\Rpf120Day19RegexUserProblem\Uc9ClearEmailAddress\Uc9ClearEmailAddress\bin\Debug\net5.0\Uc9ClearEmailAddress.deps.json
+E:\.net\Rpf120Day19RegexUserProblem\Uc9ClearEmailAddress\Uc9ClearEmailAddress\bin\Debug\net5.0\Uc9ClearEmailAddress.runtimeconfig.json
+E:\.net\Rpf120Day19RegexUserProblem\Uc9ClearEmailAddress\Uc9ClearEmailAddress\bin\Debug\net5.0\Uc9ClearEmailAddress.runtimeconfig.dev.json
+E:\.net\Rpf120Day19RegexUserProblem\Uc9ClearEmailAddress\Uc9ClearEmailAddress\bin\Debug\net5.0\Uc9ClearEmailAddress.dll
+E:\.net\Rpf120Day19RegexUserProblem\Uc9ClearEmailAddress\Uc9ClearEmailAddress\bin\Debug\net5.0\Uc9ClearEmailAddress.pdb
+E:\.net\Rpf120Day19RegexUserProblem\Uc9ClearEmailAddress\Uc9ClearEmailAddress\obj\Debug\net5.0\Uc9ClearEmailAddress.csproj.AssemblyReference.cache
+E:\.net\Rpf120Day19RegexUserProblem\Uc9ClearEmailAddress\Uc9ClearEmailAddress\obj\Debug\net5.0\Uc9ClearEmailAddress.GeneratedMSBuildEditorConfig.editorconfig
+E:\.net\Rpf120Day19RegexUserProblem\Uc9ClearEmailAddress\Uc9ClearEmailAddress\obj\Debug\net5.0\Uc9ClearEmailAddress.AssemblyInfoInputs.cache
+E:\.net\Rpf120Day19RegexUserProblem\Uc9ClearEmailAddress\Uc9ClearEmailAddress\obj\Debug\net5.0\Uc9ClearEmailAddress.AssemblyInfo.cs
+E:\.net\Rpf120Day19RegexUserProblem\Uc9ClearEmailAddress\Uc9ClearEmailAddress\obj\Debug\net5.0\Uc9ClearEmailAddress.csproj.CoreCompileInputs.cache
+E:\.net\Rpf120Day19RegexUserProblem\Uc9ClearEmailAddress\Uc9ClearEmailAddress\obj\Debug\net5.0\Uc9ClearEmailAddress.dll
+E:\.net\Rpf120Day19RegexUserProblem\Uc9ClearEmailAddress\Uc9ClearEmailAddress\obj\Debug\net5.0\refint\Uc9ClearEmailAddress.dll
+E:\.net\Rpf120Day19RegexUserProblem\Uc9ClearEmailAddress\Uc9ClearEmailAddress\obj\Debug\net5.0\Uc9ClearEmailAddress.pdb
+E:\.net\Rpf120Day19RegexUserProblem\Uc9ClearEmailAddress\Uc9ClearEmailAddress\obj\Debug\net5.0\Uc9ClearEmailAddress.genruntimeconfig.cache
+E:\.net\Rpf120Day19RegexUserProblem\Uc9ClearEmailAddress\Uc9ClearEmailAddress\obj\Debug\net5.0\ref\Uc9ClearEmailAddress.dll

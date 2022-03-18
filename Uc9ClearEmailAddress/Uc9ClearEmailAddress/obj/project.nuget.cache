@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SOBRj0BSExbGsj6JxPUuI/KiMFkQNX7cm+2os0YdrVp+8L4Urp3D5HU+NLikD8k1Ags/8uhD3wsNyOBhx5APlA==",
+  "success": true,
+  "projectFilePath": "E:\\.net\\Rpf120Day19RegexUserProblem\\Uc9ClearEmailAddress\\Uc9ClearEmailAddress\\Uc9ClearEmailAddress.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

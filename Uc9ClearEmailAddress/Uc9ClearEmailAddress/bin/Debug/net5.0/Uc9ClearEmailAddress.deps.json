@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Uc9ClearEmailAddress/1.0.0": {
+        "runtime": {
+          "Uc9ClearEmailAddress.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Uc9ClearEmailAddress/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
