@@ -1,0 +1,16 @@
+E:\.net\Rpf120Day19RegexUserProblem\Uc1EnterFirstName\Uc1EnterFirstName\bin\Debug\net5.0\Uc1EnterFirstName.exe
+E:\.net\Rpf120Day19RegexUserProblem\Uc1EnterFirstName\Uc1EnterFirstName\bin\Debug\net5.0\Uc1EnterFirstName.deps.json
+E:\.net\Rpf120Day19RegexUserProblem\Uc1EnterFirstName\Uc1EnterFirstName\bin\Debug\net5.0\Uc1EnterFirstName.runtimeconfig.json
+E:\.net\Rpf120Day19RegexUserProblem\Uc1EnterFirstName\Uc1EnterFirstName\bin\Debug\net5.0\Uc1EnterFirstName.runtimeconfig.dev.json
+E:\.net\Rpf120Day19RegexUserProblem\Uc1EnterFirstName\Uc1EnterFirstName\bin\Debug\net5.0\Uc1EnterFirstName.dll
+E:\.net\Rpf120Day19RegexUserProblem\Uc1EnterFirstName\Uc1EnterFirstName\bin\Debug\net5.0\Uc1EnterFirstName.pdb
+E:\.net\Rpf120Day19RegexUserProblem\Uc1EnterFirstName\Uc1EnterFirstName\obj\Debug\net5.0\Uc1EnterFirstName.csproj.AssemblyReference.cache
+E:\.net\Rpf120Day19RegexUserProblem\Uc1EnterFirstName\Uc1EnterFirstName\obj\Debug\net5.0\Uc1EnterFirstName.GeneratedMSBuildEditorConfig.editorconfig
+E:\.net\Rpf120Day19RegexUserProblem\Uc1EnterFirstName\Uc1EnterFirstName\obj\Debug\net5.0\Uc1EnterFirstName.AssemblyInfoInputs.cache
+E:\.net\Rpf120Day19RegexUserProblem\Uc1EnterFirstName\Uc1EnterFirstName\obj\Debug\net5.0\Uc1EnterFirstName.AssemblyInfo.cs
+E:\.net\Rpf120Day19RegexUserProblem\Uc1EnterFirstName\Uc1EnterFirstName\obj\Debug\net5.0\Uc1EnterFirstName.csproj.CoreCompileInputs.cache
+E:\.net\Rpf120Day19RegexUserProblem\Uc1EnterFirstName\Uc1EnterFirstName\obj\Debug\net5.0\Uc1EnterFirstName.dll
+E:\.net\Rpf120Day19RegexUserProblem\Uc1EnterFirstName\Uc1EnterFirstName\obj\Debug\net5.0\refint\Uc1EnterFirstName.dll
+E:\.net\Rpf120Day19RegexUserProblem\Uc1EnterFirstName\Uc1EnterFirstName\obj\Debug\net5.0\Uc1EnterFirstName.pdb
+E:\.net\Rpf120Day19RegexUserProblem\Uc1EnterFirstName\Uc1EnterFirstName\obj\Debug\net5.0\Uc1EnterFirstName.genruntimeconfig.cache
+E:\.net\Rpf120Day19RegexUserProblem\Uc1EnterFirstName\Uc1EnterFirstName\obj\Debug\net5.0\ref\Uc1EnterFirstName.dll

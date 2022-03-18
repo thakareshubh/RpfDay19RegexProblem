@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Uc1EnterFirstName/1.0.0": {
+        "runtime": {
+          "Uc1EnterFirstName.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Uc1EnterFirstName/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
