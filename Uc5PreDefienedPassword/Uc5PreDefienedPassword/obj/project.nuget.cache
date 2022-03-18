@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gfJRcwEL9W4wBi2VPSrrChNoEoE5awfJSMeQ/+/Pj8/2hfpdoMympGh6WuWTE0bSuglzj93i917r4s+x+BM0Gg==",
+  "success": true,
+  "projectFilePath": "E:\\.net\\Rpf120Day19RegexUserProblem\\Uc5PreDefienedPassword\\Uc5PreDefienedPassword\\Uc5PreDefienedPassword.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
