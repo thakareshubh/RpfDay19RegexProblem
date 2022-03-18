@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/gpnpb+9QOfv5ooJ8EoFPg2Fdyy8NEXoNnss07a5jmeAjib+UlaosUYxYOlnIHJgQE2oGVXK24PittIVKUScKw==",
+  "success": true,
+  "projectFilePath": "E:\\.net\\Rpf120Day19RegexUserProblem\\Uc6PasswordWithOneUpperCase\\Uc6PasswordWithOneUpperCase\\Uc6PasswordWithOneUpperCase.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
