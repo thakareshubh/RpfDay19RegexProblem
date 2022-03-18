@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Uts07v8eLJWShsH+fk3BF6enHqAbRtmlsKn45weboWpBJfKk60V8gwBFpzXpsl1xVgBoBhPUwlHkVIXJaND2dg==",
+  "success": true,
+  "projectFilePath": "E:\\.net\\Rpf120Day19RegexUserProblem\\Uc3EnterValdiEmail\\Uc3EnterValdiEmail\\Uc3EnterValdiEmail.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

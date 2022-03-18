@@ -1,0 +1,16 @@
+E:\.net\Rpf120Day19RegexUserProblem\Uc3EnterValdiEmail\Uc3EnterValdiEmail\bin\Debug\net5.0\Uc3EnterValdiEmail.exe
+E:\.net\Rpf120Day19RegexUserProblem\Uc3EnterValdiEmail\Uc3EnterValdiEmail\bin\Debug\net5.0\Uc3EnterValdiEmail.deps.json
+E:\.net\Rpf120Day19RegexUserProblem\Uc3EnterValdiEmail\Uc3EnterValdiEmail\bin\Debug\net5.0\Uc3EnterValdiEmail.runtimeconfig.json
+E:\.net\Rpf120Day19RegexUserProblem\Uc3EnterValdiEmail\Uc3EnterValdiEmail\bin\Debug\net5.0\Uc3EnterValdiEmail.runtimeconfig.dev.json
+E:\.net\Rpf120Day19RegexUserProblem\Uc3EnterValdiEmail\Uc3EnterValdiEmail\bin\Debug\net5.0\Uc3EnterValdiEmail.dll
+E:\.net\Rpf120Day19RegexUserProblem\Uc3EnterValdiEmail\Uc3EnterValdiEmail\bin\Debug\net5.0\Uc3EnterValdiEmail.pdb
+E:\.net\Rpf120Day19RegexUserProblem\Uc3EnterValdiEmail\Uc3EnterValdiEmail\obj\Debug\net5.0\Uc3EnterValdiEmail.csproj.AssemblyReference.cache
+E:\.net\Rpf120Day19RegexUserProblem\Uc3EnterValdiEmail\Uc3EnterValdiEmail\obj\Debug\net5.0\Uc3EnterValdiEmail.GeneratedMSBuildEditorConfig.editorconfig
+E:\.net\Rpf120Day19RegexUserProblem\Uc3EnterValdiEmail\Uc3EnterValdiEmail\obj\Debug\net5.0\Uc3EnterValdiEmail.AssemblyInfoInputs.cache
+E:\.net\Rpf120Day19RegexUserProblem\Uc3EnterValdiEmail\Uc3EnterValdiEmail\obj\Debug\net5.0\Uc3EnterValdiEmail.AssemblyInfo.cs
+E:\.net\Rpf120Day19RegexUserProblem\Uc3EnterValdiEmail\Uc3EnterValdiEmail\obj\Debug\net5.0\Uc3EnterValdiEmail.csproj.CoreCompileInputs.cache
+E:\.net\Rpf120Day19RegexUserProblem\Uc3EnterValdiEmail\Uc3EnterValdiEmail\obj\Debug\net5.0\Uc3EnterValdiEmail.dll
+E:\.net\Rpf120Day19RegexUserProblem\Uc3EnterValdiEmail\Uc3EnterValdiEmail\obj\Debug\net5.0\refint\Uc3EnterValdiEmail.dll
+E:\.net\Rpf120Day19RegexUserProblem\Uc3EnterValdiEmail\Uc3EnterValdiEmail\obj\Debug\net5.0\Uc3EnterValdiEmail.pdb
+E:\.net\Rpf120Day19RegexUserProblem\Uc3EnterValdiEmail\Uc3EnterValdiEmail\obj\Debug\net5.0\Uc3EnterValdiEmail.genruntimeconfig.cache
+E:\.net\Rpf120Day19RegexUserProblem\Uc3EnterValdiEmail\Uc3EnterValdiEmail\obj\Debug\net5.0\ref\Uc3EnterValdiEmail.dll
