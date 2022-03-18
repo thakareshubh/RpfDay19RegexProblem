@@ -1,0 +1,16 @@
+E:\.net\Rpf120Day19RegexUserProblem\Uc4PreDefienedMobileFormat\Uc4PreDefienedMobileFormat\bin\Debug\net5.0\Uc4PreDefienedMobileFormat.exe
+E:\.net\Rpf120Day19RegexUserProblem\Uc4PreDefienedMobileFormat\Uc4PreDefienedMobileFormat\bin\Debug\net5.0\Uc4PreDefienedMobileFormat.deps.json
+E:\.net\Rpf120Day19RegexUserProblem\Uc4PreDefienedMobileFormat\Uc4PreDefienedMobileFormat\bin\Debug\net5.0\Uc4PreDefienedMobileFormat.runtimeconfig.json
+E:\.net\Rpf120Day19RegexUserProblem\Uc4PreDefienedMobileFormat\Uc4PreDefienedMobileFormat\bin\Debug\net5.0\Uc4PreDefienedMobileFormat.runtimeconfig.dev.json
+E:\.net\Rpf120Day19RegexUserProblem\Uc4PreDefienedMobileFormat\Uc4PreDefienedMobileFormat\bin\Debug\net5.0\Uc4PreDefienedMobileFormat.dll
+E:\.net\Rpf120Day19RegexUserProblem\Uc4PreDefienedMobileFormat\Uc4PreDefienedMobileFormat\bin\Debug\net5.0\Uc4PreDefienedMobileFormat.pdb
+E:\.net\Rpf120Day19RegexUserProblem\Uc4PreDefienedMobileFormat\Uc4PreDefienedMobileFormat\obj\Debug\net5.0\Uc4PreDefienedMobileFormat.csproj.AssemblyReference.cache
+E:\.net\Rpf120Day19RegexUserProblem\Uc4PreDefienedMobileFormat\Uc4PreDefienedMobileFormat\obj\Debug\net5.0\Uc4PreDefienedMobileFormat.GeneratedMSBuildEditorConfig.editorconfig
+E:\.net\Rpf120Day19RegexUserProblem\Uc4PreDefienedMobileFormat\Uc4PreDefienedMobileFormat\obj\Debug\net5.0\Uc4PreDefienedMobileFormat.AssemblyInfoInputs.cache
+E:\.net\Rpf120Day19RegexUserProblem\Uc4PreDefienedMobileFormat\Uc4PreDefienedMobileFormat\obj\Debug\net5.0\Uc4PreDefienedMobileFormat.AssemblyInfo.cs
+E:\.net\Rpf120Day19RegexUserProblem\Uc4PreDefienedMobileFormat\Uc4PreDefienedMobileFormat\obj\Debug\net5.0\Uc4PreDefienedMobileFormat.csproj.CoreCompileInputs.cache
+E:\.net\Rpf120Day19RegexUserProblem\Uc4PreDefienedMobileFormat\Uc4PreDefienedMobileFormat\obj\Debug\net5.0\Uc4PreDefienedMobileFormat.dll
+E:\.net\Rpf120Day19RegexUserProblem\Uc4PreDefienedMobileFormat\Uc4PreDefienedMobileFormat\obj\Debug\net5.0\refint\Uc4PreDefienedMobileFormat.dll
+E:\.net\Rpf120Day19RegexUserProblem\Uc4PreDefienedMobileFormat\Uc4PreDefienedMobileFormat\obj\Debug\net5.0\Uc4PreDefienedMobileFormat.pdb
+E:\.net\Rpf120Day19RegexUserProblem\Uc4PreDefienedMobileFormat\Uc4PreDefienedMobileFormat\obj\Debug\net5.0\Uc4PreDefienedMobileFormat.genruntimeconfig.cache
+E:\.net\Rpf120Day19RegexUserProblem\Uc4PreDefienedMobileFormat\Uc4PreDefienedMobileFormat\obj\Debug\net5.0\ref\Uc4PreDefienedMobileFormat.dll
